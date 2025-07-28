@@ -6,7 +6,7 @@ This is a classic Snake game implemented in C++.
 
 ## Features
 
-- Controls the snake using arrow keys
+- Controls the snake using 'A','S','D','W' keys
 - Grows longer when it eats food
 - Ends the game if the snake hits the walls or itself
 
